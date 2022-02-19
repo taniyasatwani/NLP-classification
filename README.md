@@ -3,7 +3,7 @@ a Streamlit classification app using natural language processing technique to cl
 
 Link: [https://share.streamlit.io/taniyasatwani/nlp-classification/main/app.py](https://share.streamlit.io/taniyasatwani/nlp-classification/main/app.py/)
 
-[![]([https://i.imgur.com/cMfNKxv.gif)](https://share.streamlit.io/taniyasatwani/nlp-classification/main/app.py/)
+[![Web App GIF]([https://i.imgur.com/cMfNKxv.gif)](https://share.streamlit.io/taniyasatwani/nlp-classification/main/app.py/)
 
 ## Inspiration
 Nowadays, airline ticket prices can vary dynamically for the same flight. Customers are seeking to get the lowest price while airlines are trying to keep their overall revenue as high as possible and maximize their profit. Airlines use various kinds of computational techniques to increase their revenue such as demand prediction and price discrimination. 
