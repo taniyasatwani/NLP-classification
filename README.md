@@ -1,9 +1,9 @@
-# Flyguesser 
-ML model that predicts the flight price using regression based algorithms and help users to look for optimal time and prices to book flight tickets.
+# Spam Classification
+a Streamlit classification app using natural language processing technique to classify SMS into spam or ham.
 
-Link: [https://flyguesser.herokuapp.com/](https://flyguesser.herokuapp.com/)
+Link: [https://share.streamlit.io/taniyasatwani/nlp-classification/main/app.py](https://share.streamlit.io/taniyasatwani/nlp-classification/main/app.py/)
 
-[![](https://i.imgur.com/4VSHxE9.png?1)](https://flyguesser.herokuapp.com/)
+[![]([https://i.imgur.com/cMfNKxv.gif)](https://share.streamlit.io/taniyasatwani/nlp-classification/main/app.py/)
 
 ## Inspiration
 Nowadays, airline ticket prices can vary dynamically for the same flight. Customers are seeking to get the lowest price while airlines are trying to keep their overall revenue as high as possible and maximize their profit. Airlines use various kinds of computational techniques to increase their revenue such as demand prediction and price discrimination. 
